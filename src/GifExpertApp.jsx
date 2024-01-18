@@ -11,7 +11,7 @@ export const GifExpertApp = () => {
         setCategories([ newCategory, ...categories]);
     }
 
-    console.log(categories);
+    // console.log(categories);
 
     return (
         <>
